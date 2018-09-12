@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <!--For player name-->
+    <string name="player_name">Name</string>
+    <!--Calculate button-->
+    <string name="total_button">Total Score</string>
+    <!--Score text-->
+    <string name="Score">0</string>
+
+    <!--Question1-->
+    <string name="question_1">Q1: Who won the Best Footballer 2016 in the World?</string>
+    <!--Answer option 1-->
+    <string name="one_option_1">Lionel Messi</string>
+    <!--Answer option 2-->
+    <string name="one_option_2">Cristiano Ronaldo</string>
+    <!--Answer option 3-->
+    <string name="one_option_3">Luis Suárez</string>
+
+
+    <!--Question2-->
+    <string name="question_2">Q2: Which crop is sown on the largest area in India?</string>
+    <!--Answer option 1-->
+    <string name="two_option_1">Sugarcane</string>
+    <!--Answer option 2-->
+    <string name="two_option_2">Rice</string>
+    <!--Answer option 3-->
+    <string name="two_option_3">Wheat</string>
+
+
+    <!--Question3-->
+    <string name="question_3">Q3: Tajmahal is on the banks of </string>
+    <!--Answer option 1-->
+    <string name="three_option_1">Jamuna</string>
+    <!--Answer option 2-->
+    <string name="three_option_2">Ganges</string>
+    <!--Answer option 3-->
+    <string name="three_option_3">Brahmaputra</string>
+
+
+    <!--Question4-->
+    <string name="question_4">Q4: Second World war began in </string>
+    <!--Answer option 1-->
+    <string name="four_option_1">1937</string>
+    <!--Answer option 2-->
+    <string name="four_option_2">1938</string>
+    <!--Answer option 3-->
+    <string name="four_option_3">1939</string>
+
+
+    <!--Question5-->
+    <string name="question_5">Q5: The largest ocean in the world is </string>
+    <!--Answer option 1-->
+    <string name="five_option_1">The Antarctic</string>
+    <!--Answer option 2-->
+    <string name="five_option_2">The Indian Ocean</string>
+    <!--Answer option 3-->
+    <string name="five_option_3">The Pacific Ocean</string>
+
+
+    <!--Question6-->
+    <string name="question_6">Q6: The chemical name of common salt is </string>
+    <!--Answer option 1-->
+    <string name="six_option_1">Calcium Carbonate</string>
+    <!--Answer option 2-->
+    <string name="six_option_2">Sodium Carbonate</string>
+    <!--Answer option 3-->
+    <string name="six_option_3">Sodium Chloride</string>
+
+    <!--Question7-->
+    <string name="question_7">Q7: The system of dual citizenship exists in </string>
+    <!--Answer option 1-->
+    <string name="seven_option_1">USA</string>
+    <!--Answer option 2-->
+    <string name="seven_option_2">United Kingdom</string>
+    <!--Answer option 3-->
+    <string name="seven_option_3">India</string>
+
+
+</resources>
